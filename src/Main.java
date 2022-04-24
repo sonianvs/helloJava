@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Salut monde!");
         System.out.println("Kon'nichiwa sekai");
         System.out.println("Nǐ hǎo shìjiè!");
+        System.out.println("Namaste duniya!");
     }
 
 }
